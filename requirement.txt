@@ -1,6 +1,4 @@
-ConfigParser
 requests
 pandas
 jieba
 wordcloud
-matplotlib
