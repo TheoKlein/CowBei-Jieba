@@ -26,7 +26,7 @@ fanpage = {
 $ python3 main.py
 ```
 
-此程式需要藉由Facebook Graph API存取粉絲專頁資料，程式運作時需要輸入Token，請至 `https://developers.facebook.com/tools/explorer` 取得你的個人權杖。
+此程式需要藉由Facebook Graph API存取粉絲專頁資料，程式運作時需要輸入Token，請至 [Graph API](https://developers.facebook.com/tools/explorer) 取得你的個人權杖。
 
 執行後會建立`tmp`資料夾，程式運作產生的資料全部會儲存在這裡。
 
